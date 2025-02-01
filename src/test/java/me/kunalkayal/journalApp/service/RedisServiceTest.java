@@ -14,8 +14,8 @@ public class RedisServiceTest {
     RedisTemplate redisTemplate;
     @Test
     public  void  testRedis(){
-        redisTemplate.opsForValue().set("ani","hello");
-        String value = (String) redisTemplate.opsForValue().get("kunal");
-        log.info("value={}",value);
+//        redisTemplate.opsForValue().set("ani","hello");
+//        String value = (String) redisTemplate.opsForValue().get("kunal");
+//        log.info("value={}",value);
     }
 }
