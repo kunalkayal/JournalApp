@@ -5,6 +5,7 @@ This is a practice branch for Spring Boot practice.
 ## Description
 
 JournalApp is an End-to-End Encrypted (E2EE) journal application built with Spring Boot. This project is designed for learning and practicing Spring Boot development.
+![](https://github.com/kunalkayal/JournalApp/blob/master/journalApp.png)
 
 ## Table of Contents
 
