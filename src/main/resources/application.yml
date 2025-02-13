@@ -18,3 +18,11 @@ spring:
 weather:
   api:
     key: ${WEATHER_API_KEY}
+springdoc:
+  swagger-ui:
+    path: /
+    enabled: true
+  api-docs:
+    enabled: true
+info:
+  
